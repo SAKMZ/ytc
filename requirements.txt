@@ -1,0 +1,7 @@
+streamlit
+pandas
+scrapetube
+youtube-comment-downloader
+nltk
+scikit-learn
+plotly
