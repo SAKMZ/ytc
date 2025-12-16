@@ -2,6 +2,9 @@ streamlit
 pandas
 scrapetube
 youtube-comment-downloader
+google-generativeai
 nltk
 scikit-learn
 plotly
+wordcloud
+matplotlib
