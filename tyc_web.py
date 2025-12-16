@@ -249,7 +249,7 @@ def scrape_data(channel_url, video_limit, comment_limit, sort_mode):
 with st.sidebar:
     st.header("⚙️ Configuration")
     
-    api_key = st.text_input("AI API Key", value=DEFAULT_API_KEY, type="password")
+    api_key = st.text_input("Gemini API Key", value=DEFAULT_API_KEY, type="password")
     
     url_input = st.text_input("Channel/Video URL", "https://www.youtube.com/@ThePrimeagen")
     
@@ -408,3 +408,4 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
